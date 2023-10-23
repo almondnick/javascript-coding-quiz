@@ -18,6 +18,7 @@ Nick Almond
 Email: nickalmond14@gmail.com
 Github Pages Link: https://almondnick.github.io/javascript-coding-quiz/index.html
 Screenshot:
+![Screenshot 2023-10-23 at 11 40 40 AM](https://github.com/almondnick/javascript-coding-quiz/assets/143033339/ef6c2528-0689-485e-a336-37499b6c96f9)
 
 ## Credits
 
